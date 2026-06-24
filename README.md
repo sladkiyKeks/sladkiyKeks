@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left"># 👋 Hi, I'm Artem (sladkiy_keks)<br><br>🎮 I'm a 17-year-old indie game developer from Kharkiv, Ukraine.  <br>🛠️ I specialize in creating 3D games using **Unreal Engine 5** (Blueprints & C++) and **Unity (C#)**.  <br>💡 I enjoy building prototypes, gameplay mechanics, and experimenting with game design.<br><br>
+<p align="left"># 👋 Hi, I'm Artem (sladkiy_keks)<br><br>🎮 I'm a 18-year-old indie game developer from Kharkiv, Ukraine.  <br>🛠️ I specialize in creating 3D games using **Unreal Engine 5** (Blueprints & C++) and **Unity (C#)**.  <br>💡 I enjoy building prototypes, gameplay mechanics, and experimenting with game design.<br><br>
 
 My CV: [CV_Artem Mykhailichenko.pdf](https://github.com/sladkiyKeks/ZombieShooter/blob/bb49133bbef59a529075ea96aff77df62b987656/CV_Artem%20Mykhailichenko.pdf)
 
